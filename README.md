@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a full stack Python developer...
+I'm a Full Stack Python developer...
 
 I started out as a self-taught developer, but moved to Coding Dojo to get more structure with my education. I currently work in the Finance industry as a Trading Specialist at a large Broker-Dealer. 
 - 🔭 I’m currently working on a personal project.
